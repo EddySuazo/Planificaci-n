@@ -1,0 +1,6 @@
+{
+  "name": "PlanificaRD – Asistente Inteligente de Planificación Docente MINERD",
+  "description": "Plataforma inteligente de planificación docente alineada al currículo y secuencias didácticas oficiales del Ministerio de Educación de la República Dominicana (MINERD).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
